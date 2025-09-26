@@ -30,7 +30,7 @@ c.	Created pivot tables according to the questions asked.
 
 d.	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-Dashboard:- "C:\Users\singh\Pictures\Screenshots\Screenshot 2025-09-26 175814.png"
+Dashboard:- https://github.com/ManuKumar7890/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-26%20175814.png
 
 Project Insights:- 
 Women are more likely to buy compared to men (~65%)
@@ -46,5 +46,4 @@ Final Conclusion to improve Vrinda store sales:
 Target women customers of age group (30-49 yrs) liv Maharashtra, Karnataka and Uttar Pradesh by shoads/offers/coupons available on Amazon, Flipkart etc.
 Link of this Project:- <a href="https://github.com/ManuKumar7890/Data-Analysis-Dashboard/blob/main/Manu%20excel%20Store.xlsx"
 
-Dashboard Image:- -<a href= https://github.com/ManuKumar7890/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-26%20141225.png
-
+Dashboard Image:- -<a href= https://github.com/ManuKumar7890/Data-Analysis-Dashboard/blob/main/Screenshot%202025-09-26%20175814.png
